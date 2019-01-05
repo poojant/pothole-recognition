@@ -1,0 +1,250 @@
+2019-01-05 14:48:35,189:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 7, in index
+    m = ModelSignature("Signature_Test", output_folder=None)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\restore_model_code.py", line 60, in __init__
+    ModelBase.__init__(self, model_name, output_folder=output_folder)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\model_base.py", line 72, in __init__
+    hyp_content = U.read_json_file(hyp_filename)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\utils.py", line 41, in read_json_file
+    with open("hyperparameters.json", "r") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'hyperparameters.json'
+2019-01-05 14:49:46,554:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 14:49:48,303:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 10, in index
+    m.load("checkpoints/restoreModel")
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\model_base.py", line 293, in load
+    loader = tf.train.import_meta_graph(ckpt + '.meta')
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\training\saver.py", line 1674, in import_meta_graph
+    meta_graph_or_file, clear_devices, import_scope, **kwargs)[0]
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\training\saver.py", line 1686, in _import_meta_graph_with_return_elements
+    meta_graph_def = meta_graph.read_meta_graph_file(meta_graph_or_file)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\framework\meta_graph.py", line 633, in read_meta_graph_file
+    raise IOError("File %s does not exist." % filename)
+OSError: File checkpoints/restoreModel.meta does not exist.
+2019-01-05 14:58:05,758:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 14:58:05,831:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 10, in index
+    m.load("checkpoints/restoreModel.meta")
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\model_base.py", line 293, in load
+    loader = tf.train.import_meta_graph(ckpt + '.meta')
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\training\saver.py", line 1674, in import_meta_graph
+    meta_graph_or_file, clear_devices, import_scope, **kwargs)[0]
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\training\saver.py", line 1686, in _import_meta_graph_with_return_elements
+    meta_graph_def = meta_graph.read_meta_graph_file(meta_graph_or_file)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\framework\meta_graph.py", line 633, in read_meta_graph_file
+    raise IOError("File %s does not exist." % filename)
+OSError: File checkpoints/restoreModel.meta.meta does not exist.
+2019-01-05 14:58:32,461:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 14:58:32,527:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 10, in index
+    m.load("./checkpoints/restoreModel")
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\model_base.py", line 293, in load
+    loader = tf.train.import_meta_graph(ckpt + '.meta')
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\training\saver.py", line 1674, in import_meta_graph
+    meta_graph_or_file, clear_devices, import_scope, **kwargs)[0]
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\training\saver.py", line 1686, in _import_meta_graph_with_return_elements
+    meta_graph_def = meta_graph.read_meta_graph_file(meta_graph_or_file)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\framework\meta_graph.py", line 633, in read_meta_graph_file
+    raise IOError("File %s does not exist." % filename)
+OSError: File ./checkpoints/restoreModel.meta does not exist.
+2019-01-05 14:58:57,861:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 14:58:57,940:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 10, in index
+    m.load("checkpoints/restoreModel")
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\model_base.py", line 293, in load
+    loader = tf.train.import_meta_graph(ckpt + '.meta')
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\training\saver.py", line 1674, in import_meta_graph
+    meta_graph_or_file, clear_devices, import_scope, **kwargs)[0]
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\training\saver.py", line 1686, in _import_meta_graph_with_return_elements
+    meta_graph_def = meta_graph.read_meta_graph_file(meta_graph_or_file)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\framework\meta_graph.py", line 633, in read_meta_graph_file
+    raise IOError("File %s does not exist." % filename)
+OSError: File checkpoints/restoreModel.meta does not exist.
+2019-01-05 14:58:58,773:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 14:58:58,820:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 10, in index
+    m.load("checkpoints/restoreModel")
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\model_base.py", line 293, in load
+    loader = tf.train.import_meta_graph(ckpt + '.meta')
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\training\saver.py", line 1674, in import_meta_graph
+    meta_graph_or_file, clear_devices, import_scope, **kwargs)[0]
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\training\saver.py", line 1686, in _import_meta_graph_with_return_elements
+    meta_graph_def = meta_graph.read_meta_graph_file(meta_graph_or_file)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\framework\meta_graph.py", line 633, in read_meta_graph_file
+    raise IOError("File %s does not exist." % filename)
+OSError: File checkpoints/restoreModel.meta does not exist.
+2019-01-05 15:08:37,364:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 15:08:44,289:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 15:08:47,318:: INFO:: ModelBase::Ckpt ready
+2019-01-05 15:08:54,378:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 15:08:54,733:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 15:08:58,333:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 45, in index
+    image = cv2.imread(path.replace("\\",""))
+NameError: name 'cv2' is not defined
+2019-01-05 15:08:59,005:: INFO:: ModelBase::Ckpt ready
+2019-01-05 15:11:31,046:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 15:11:36,938:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 15:11:37,591:: INFO:: ModelBase::Ckpt ready
+2019-01-05 15:11:46,125:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 45, in index
+    image = cv2.imread(path.replace("\\",""))
+NameError: name 'cv2' is not defined
+2019-01-05 15:12:50,655:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 15:12:51,062:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 15:12:51,818:: INFO:: ModelBase::Ckpt ready
+2019-01-05 15:12:55,619:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 47, in index
+    image = cv2.resize(image,(64, 64),3)
+cv2.error: OpenCV(3.4.5) C:\projects\opencv-python\opencv\modules\imgproc\src\resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2019-01-05 15:18:46,110:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 15:18:46,502:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 15:18:47,239:: INFO:: ModelBase::Ckpt ready
+2019-01-05 15:18:47,806:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 48, in index
+    plt.imshow(image)
+NameError: name 'plt' is not defined
+2019-01-05 15:20:25,471:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 15:20:25,856:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 15:20:26,527:: INFO:: ModelBase::Ckpt ready
+2019-01-05 15:20:35,770:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 49, in index
+    plt.imshow(image)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 3101, in imshow
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\__init__.py", line 1717, in inner
+    return func(ax, *args, **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\axes\_axes.py", line 5131, in imshow
+    im.set_data(X)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\image.py", line 618, in set_data
+    raise TypeError("Image data cannot be converted to float")
+TypeError: Image data cannot be converted to float
+2019-01-05 15:22:03,863:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 15:22:04,311:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 15:22:04,998:: INFO:: ModelBase::Ckpt ready
+2019-01-05 15:22:05,988:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 49, in index
+    plt.imshow(image)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 3101, in imshow
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\__init__.py", line 1717, in inner
+    return func(ax, *args, **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\axes\_axes.py", line 5131, in imshow
+    im.set_data(X)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\image.py", line 618, in set_data
+    raise TypeError("Image data cannot be converted to float")
+TypeError: Image data cannot be converted to float
+2019-01-05 15:22:31,051:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 15:22:31,352:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 15:22:32,074:: INFO:: ModelBase::Ckpt ready
+2019-01-05 15:22:32,598:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 48, in index
+    image = cv2.resize(image,(64, 64),3)
+cv2.error: OpenCV(3.4.5) C:\projects\opencv-python\opencv\modules\imgproc\src\resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2019-01-05 15:26:54,059:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 15:26:54,463:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 15:26:55,158:: INFO:: ModelBase::Ckpt ready
+2019-01-05 15:26:58,449:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 48, in index
+    print(image.shape)
+AttributeError: 'NoneType' object has no attribute 'shape'
