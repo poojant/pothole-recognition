@@ -248,3 +248,2024 @@ Traceback (most recent call last):
   File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 48, in index
     print(image.shape)
 AttributeError: 'NoneType' object has no attribute 'shape'
+2019-01-05 16:19:50,098:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:19:51,863:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:19:53,387:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:19:54,954:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 48, in index
+    print(image.shape)
+AttributeError: 'NoneType' object has no attribute 'shape'
+2019-01-05 16:19:55,455:: WARNING:: Not Found: /favicon.ico
+2019-01-05 16:21:55,488:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:21:55,779:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:21:56,409:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:21:58,137:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 48, in index
+    print(image.shape)
+AttributeError: 'NoneType' object has no attribute 'shape'
+2019-01-05 16:23:08,762:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:23:09,115:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:23:09,754:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:23:11,325:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 48, in index
+    print(image.shape)
+AttributeError: 'NoneType' object has no attribute 'shape'
+2019-01-05 16:24:18,613:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:24:18,976:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:24:19,631:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:24:21,312:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 48, in index
+    print(path.shape)
+AttributeError: 'str' object has no attribute 'shape'
+2019-01-05 16:31:18,707:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:31:19,027:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:31:19,685:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:31:21,873:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 51, in index
+    plt.imshow(plt.imshow(mpimg.imread('C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/static/trainchat.png')))
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 3101, in imshow
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\__init__.py", line 1717, in inner
+    return func(ax, *args, **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\axes\_axes.py", line 5131, in imshow
+    im.set_data(X)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\image.py", line 618, in set_data
+    raise TypeError("Image data cannot be converted to float")
+TypeError: Image data cannot be converted to float
+2019-01-05 16:33:47,815:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:33:48,108:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:33:48,829:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:35:31,709:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 52, in index
+    image = np.array(image) / 255
+NameError: name 'np' is not defined
+2019-01-05 16:36:35,858:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:36:36,175:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:36:36,860:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:37:52,947:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 56, in index
+    predictions_for_setting_range = m.predict(image)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\restore_model_code.py", line 244, in predict
+    self.tf_conv_2_dropout: 1.
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\client\session.py", line 929, in run
+    run_metadata_ptr)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\client\session.py", line 1128, in _run
+    str(subfeed_t.get_shape())))
+ValueError: Cannot feed value of shape (321, 353, 3) for Tensor 'images:0', which has shape '(?, 64, 64, 3)'
+2019-01-05 16:38:54,669:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:38:55,031:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:38:55,709:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:39:02,484:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 56, in index
+    predictions_for_setting_range = m.predict(image)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\restore_model_code.py", line 244, in predict
+    self.tf_conv_2_dropout: 1.
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\client\session.py", line 929, in run
+    run_metadata_ptr)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\client\session.py", line 1128, in _run
+    str(subfeed_t.get_shape())))
+ValueError: Cannot feed value of shape (64, 64, 3) for Tensor 'images:0', which has shape '(?, 64, 64, 3)'
+2019-01-05 16:40:43,532:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:40:43,816:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:40:44,464:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:40:51,384:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 56, in index
+    predictions_for_setting_range = m.predict(image)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\restore_model_code.py", line 244, in predict
+    self.tf_conv_2_dropout: 1.
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\client\session.py", line 929, in run
+    run_metadata_ptr)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\client\session.py", line 1128, in _run
+    str(subfeed_t.get_shape())))
+ValueError: Cannot feed value of shape (64, 64) for Tensor 'images:0', which has shape '(?, 64, 64, 3)'
+2019-01-05 16:41:34,323:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:41:34,700:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:41:35,382:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:41:39,381:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 56, in index
+    predictions_for_setting_range = m.predict(image)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\restore_model_code.py", line 244, in predict
+    self.tf_conv_2_dropout: 1.
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\client\session.py", line 929, in run
+    run_metadata_ptr)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\client\session.py", line 1128, in _run
+    str(subfeed_t.get_shape())))
+ValueError: Cannot feed value of shape (64, 64, 3) for Tensor 'images:0', which has shape '(?, 64, 64, 3)'
+2019-01-05 16:44:29,501:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:44:29,854:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:44:30,543:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:44:31,948:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 51, in index
+    image = array(image).reshape(1, 64,64,3)
+NameError: name 'array' is not defined
+2019-01-05 16:45:47,304:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:45:47,591:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:45:48,222:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:45:49,323:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 52, in index
+    plt.imshow(image)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 3101, in imshow
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\__init__.py", line 1717, in inner
+    return func(ax, *args, **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\axes\_axes.py", line 5131, in imshow
+    im.set_data(X)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\image.py", line 622, in set_data
+    raise TypeError("Invalid dimensions for image data")
+TypeError: Invalid dimensions for image data
+2019-01-05 16:49:01,584:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:49:01,879:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:49:02,564:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:49:06,768:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 57, in index
+    predictions_for_setting_range = m.predict(image)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\restore_model_code.py", line 244, in predict
+    self.tf_conv_2_dropout: 1.
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\client\session.py", line 929, in run
+    run_metadata_ptr)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\client\session.py", line 1128, in _run
+    str(subfeed_t.get_shape())))
+ValueError: Cannot feed value of shape (64, 64, 3) for Tensor 'images:0', which has shape '(?, 64, 64, 3)'
+2019-01-05 16:52:37,325:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:52:37,732:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:52:38,383:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:52:39,493:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 52, in index
+    plt.imshow(image)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 3101, in imshow
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\__init__.py", line 1717, in inner
+    return func(ax, *args, **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\axes\_axes.py", line 5131, in imshow
+    im.set_data(X)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\image.py", line 622, in set_data
+    raise TypeError("Invalid dimensions for image data")
+TypeError: Invalid dimensions for image data
+2019-01-05 16:54:19,371:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:54:19,666:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:54:20,310:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:54:21,457:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 52, in index
+    plt.imshow(image[1])
+IndexError: index 1 is out of bounds for axis 0 with size 1
+2019-01-05 16:54:44,417:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:54:44,757:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:54:44,828:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:54:45,100:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:54:45,470:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:54:46,417:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:54:48,032:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 53, in index
+    plt.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 254, in show
+    return _show(*args, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 218, in show
+    cls.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1078, in mainloop
+    Tk.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 557, in mainloop
+    _default_root.tk.mainloop(n)
+RuntimeError: Calling Tcl from different appartment
+2019-01-05 16:54:49,965:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 57, in index
+    predictions_for_setting_range = m.predict(image)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\restore_model_code.py", line 244, in predict
+    self.tf_conv_2_dropout: 1.
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\client\session.py", line 929, in run
+    run_metadata_ptr)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\client\session.py", line 1128, in _run
+    str(subfeed_t.get_shape())))
+ValueError: Cannot feed value of shape (64, 64, 3) for Tensor 'images:0', which has shape '(?, 64, 64, 3)'
+2019-01-05 16:56:28,271:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:56:28,658:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:56:29,312:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:56:38,006:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 67, in index
+    axs[i].imshow(images1[i // 2])
+IndexError: list index out of range
+2019-01-05 16:57:54,669:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:57:54,966:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:57:55,649:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:58:03,904:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 67, in index
+    axs[i].imshow(image[i // 2])
+IndexError: index 1 is out of bounds for axis 0 with size 1
+2019-01-05 16:58:35,318:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:58:35,697:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:58:36,388:: INFO:: ModelBase::Ckpt ready
+2019-01-05 16:58:44,546:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 68, in index
+    axs[i].set_title("Prediction: %s" % predicted_id_to_user[np.argmax(predictions_for_setting_range[i//2])])
+IndexError: index 1 is out of bounds for axis 0 with size 1
+2019-01-05 16:59:36,292:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 16:59:36,720:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 16:59:37,388:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:01:38,043:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:01:38,433:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:01:39,145:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:03:39,509:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:03:39,770:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:03:40,425:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:03:42,897:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 52, in index
+    plt.imshow(image[0])
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 3085, in imshow
+    ax = gca()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 962, in gca
+    return gcf().gca(**kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 592, in gcf
+    return figure()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 539, in figure
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 171, in new_figure_manager
+    return cls.new_figure_manager_given_figure(num, fig)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1058, in new_figure_manager_given_figure
+    icon_img = Tk.PhotoImage(file=icon_fname)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3539, in __init__
+    Image.__init__(self, 'photo', name, cnf, master, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3495, in __init__
+    self.tk.call(('image', 'create', imgtype, name,) + options)
+RuntimeError: main thread is not in main loop
+2019-01-05 17:06:25,847:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:06:26,202:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:06:26,845:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:06:36,870:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 68, in index
+    axs[i].set_title("Prediction: %s %s" % predicted_id_to_user[np.argmax(predictions_for_setting_range[0])], predictions_for_setting_range)
+TypeError: not enough arguments for format string
+2019-01-05 17:07:19,776:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:07:20,144:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:07:20,879:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:15:51,789:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:15:52,165:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:15:52,859:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:15:53,712:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 49, in index
+    print(image.shape)
+AttributeError: 'NoneType' object has no attribute 'shape'
+2019-01-05 17:16:31,445:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:16:31,758:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:16:32,400:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:16:32,917:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 50, in index
+    image = cv2.resize(image,(64, 64),3)
+cv2.error: OpenCV(3.4.5) C:\projects\opencv-python\opencv\modules\imgproc\src\resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2019-01-05 17:19:49,482:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:19:49,907:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:19:50,590:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:30:32,301:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:30:32,584:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:30:33,224:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:30:35,834:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 52, in index
+    print(cv2.imread(path1.replace("\\","")))
+NameError: name 'path1' is not defined
+2019-01-05 17:31:09,997:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:31:10,431:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:31:11,083:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:31:35,525:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 72, in index
+    axs[i].set_title("Prediction: %s" % io.imread("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjQ2MO2yNbfAhWDfysKHWwJATEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.freep.com%2Fstory%2Fnews%2Flocal%2Fmichigan%2Fdetroit%2F2017%2F04%2F14%2Fmichigan-pothole-hotline%2F100462856%2F&psig=AOvVaw0PGbRWBNrHfRPzwz0zYmOr&ust=1546775094658072"))
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\io\_io.py", line 62, in imread
+    img = call_plugin('imread', fname, plugin=plugin, **plugin_args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\io\manage_plugins.py", line 214, in call_plugin
+    return func(*args, **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\io\_plugins\pil_plugin.py", line 36, in imread
+    im = Image.open(f)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\PIL\Image.py", line 2687, in open
+    % (filename if filename else fp))
+OSError: cannot identify image file <_io.BufferedReader name='C:\\Users\\Poojan\\AppData\\Local\\Temp\\tmpps48n1dz.com%2Fstory%2Fnews%2Flocal%2Fmichigan%2Fdetroit%2F2017%2F04%2F14%2Fmichigan-pothole-hotline%2F100462856%2F&psig=AOvVaw0PGbRWBNrHfRPzwz0zYmOr&ust=1546775094658072'>
+2019-01-05 17:32:19,370:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:32:19,735:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:32:20,487:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:32:36,793:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 72, in index
+    axs[i].set_title("Prediction: %s" % io.imread("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjQ2MO2yNbfAhWDfysKHWwJATEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.freep.com%2Fstory%2Fnews%2Flocal%2Fmichigan%2Fdetroit%2F2017%2F04%2F14%2Fmichigan-pothole-hotline%2F100462856%2F&psig=AOvVaw0PGbRWBNrHfRPzwz0zYmOr&ust=1546775094658072"))
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\io\_io.py", line 62, in imread
+    img = call_plugin('imread', fname, plugin=plugin, **plugin_args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\io\manage_plugins.py", line 214, in call_plugin
+    return func(*args, **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\io\_plugins\pil_plugin.py", line 36, in imread
+    im = Image.open(f)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\PIL\Image.py", line 2687, in open
+    % (filename if filename else fp))
+OSError: cannot identify image file <_io.BufferedReader name='C:\\Users\\Poojan\\AppData\\Local\\Temp\\tmp13p6g5su.com%2Fstory%2Fnews%2Flocal%2Fmichigan%2Fdetroit%2F2017%2F04%2F14%2Fmichigan-pothole-hotline%2F100462856%2F&psig=AOvVaw0PGbRWBNrHfRPzwz0zYmOr&ust=1546775094658072'>
+2019-01-05 17:35:17,612:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:35:17,910:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:35:18,565:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:35:19,542:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 32, in index
+    a = arr.array('i',[1,2,3])#,4,5,6,7,8,9,10,11,12])
+UnboundLocalError: local variable 'arr' referenced before assignment
+2019-01-05 17:35:48,251:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:35:48,603:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:35:49,300:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:35:49,801:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 51, in index
+    req = urllib.urlopen('https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjQ2MO2yNbfAhWDfysKHWwJATEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.freep.com%2Fstory%2Fnews%2Flocal%2Fmichigan%2Fdetroit%2F2017%2F04%2F14%2Fmichigan-pothole-hotline%2F100462856%2F&psig=AOvVaw0PGbRWBNrHfRPzwz0zYmOr&ust=1546775094658072')
+AttributeError: module 'urllib' has no attribute 'urlopen'
+2019-01-05 17:37:16,180:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:37:16,509:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:37:17,186:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:37:17,688:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 46, in index
+    import urllib2
+ModuleNotFoundError: No module named 'urllib2'
+2019-01-05 17:38:15,738:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:38:15,927:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:38:16,473:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:38:16,522:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:38:17,327:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:38:17,336:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:38:22,202:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 59, in index
+    plt.imshow(img)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 3101, in imshow
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\__init__.py", line 1717, in inner
+    return func(ax, *args, **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\axes\_axes.py", line 5131, in imshow
+    im.set_data(X)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\image.py", line 618, in set_data
+    raise TypeError("Image data cannot be converted to float")
+TypeError: Image data cannot be converted to float
+2019-01-05 17:38:23,161:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 59, in index
+    plt.imshow(img)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 3085, in imshow
+    ax = gca()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 962, in gca
+    return gcf().gca(**kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 592, in gcf
+    return figure()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 539, in figure
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 171, in new_figure_manager
+    return cls.new_figure_manager_given_figure(num, fig)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1058, in new_figure_manager_given_figure
+    icon_img = Tk.PhotoImage(file=icon_fname)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3539, in __init__
+    Image.__init__(self, 'photo', name, cnf, master, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3495, in __init__
+    self.tk.call(('image', 'create', imgtype, name,) + options)
+RuntimeError: main thread is not in main loop
+2019-01-05 17:39:17,909:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:39:18,246:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:39:18,917:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:40:25,498:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:40:25,788:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:40:26,432:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:40:29,146:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 54, in index
+    cv2.imshow('lalala', img)
+cv2.error: OpenCV(3.4.5) C:\projects\opencv-python\opencv\modules\highgui\src\window.cpp:358: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'cv::imshow'
+
+2019-01-05 17:43:21,308:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:43:21,889:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:43:22,620:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:43:25,385:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 56, in index
+    image = io.imread(path1)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\io\_io.py", line 62, in imread
+    img = call_plugin('imread', fname, plugin=plugin, **plugin_args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\io\manage_plugins.py", line 214, in call_plugin
+    return func(*args, **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\io\_plugins\pil_plugin.py", line 36, in imread
+    im = Image.open(f)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\PIL\Image.py", line 2687, in open
+    % (filename if filename else fp))
+OSError: cannot identify image file <_io.BufferedReader name='C:\\Users\\Poojan\\AppData\\Local\\Temp\\tmp99wavhqt.com%2Fstory%2Fnews%2Flocal%2Fmichigan%2Fdetroit%2F2017%2F04%2F14%2Fmichigan-pothole-hotline%2F100462856%2F&psig=AOvVaw0PGbRWBNrHfRPzwz0zYmOr&ust=1546775094658072'>
+2019-01-05 17:44:27,630:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:44:27,994:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:44:28,673:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:44:32,834:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 57, in index
+    image = io.imread(url)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\io\_io.py", line 62, in imread
+    img = call_plugin('imread', fname, plugin=plugin, **plugin_args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\io\manage_plugins.py", line 214, in call_plugin
+    return func(*args, **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\io\_plugins\pil_plugin.py", line 36, in imread
+    im = Image.open(f)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\PIL\Image.py", line 2687, in open
+    % (filename if filename else fp))
+OSError: cannot identify image file <_io.BufferedReader name='C:\\Users\\Poojan\\AppData\\Local\\Temp\\tmpnxh4l7ej.com%2Fstory%2Fnews%2Flocal%2Fmichigan%2Fdetroit%2F2017%2F04%2F14%2Fmichigan-pothole-hotline%2F100462856%2F&psig=AOvVaw0PGbRWBNrHfRPzwz0zYmOr&ust=1546775094658072'>
+2019-01-05 17:45:18,714:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:45:19,236:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:45:19,890:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:47:22,797:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:47:23,190:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:47:23,896:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:47:24,348:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 49, in index
+    print(image.shape)
+UnboundLocalError: local variable 'image' referenced before assignment
+2019-01-05 17:48:07,101:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:48:07,463:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:48:08,135:: INFO:: ModelBase::Ckpt ready
+2019-01-05 17:48:09,329:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 49, in index
+    print(cv2.imread(path1.replace("\\","")))
+NameError: name 'path1' is not defined
+2019-01-05 17:48:43,891:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 17:48:44,259:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 17:48:45,004:: INFO:: ModelBase::Ckpt ready
+2019-01-05 18:59:06,411:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 18:59:06,804:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 18:59:07,509:: INFO:: ModelBase::Ckpt ready
+2019-01-05 19:39:17,891:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 19:39:18,254:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 19:39:19,013:: INFO:: ModelBase::Ckpt ready
+2019-01-05 19:46:16,820:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 19:46:17,118:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 19:46:17,829:: INFO:: ModelBase::Ckpt ready
+2019-01-05 19:46:18,311:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 38, in index
+    a = arr.array('i',[1,2,3])#,4,5,6,7,8,9,10,11,12])
+UnboundLocalError: local variable 'arr' referenced before assignment
+2019-01-05 19:46:30,811:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 19:46:31,246:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 19:46:39,334:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 19:46:39,689:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 19:46:40,386:: INFO:: ModelBase::Ckpt ready
+2019-01-05 19:46:41,924:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 66, in index
+    image = np.array(image).reshape(1, 64,64,3)
+ValueError: cannot reshape array of size 16384 into shape (1,64,64,3)
+2019-01-05 19:47:35,539:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 19:47:35,828:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 19:47:36,466:: INFO:: ModelBase::Ckpt ready
+2019-01-05 20:51:30,404:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 20:51:30,721:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 20:51:31,382:: INFO:: ModelBase::Ckpt ready
+2019-01-05 20:55:33,621:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 20:55:33,948:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 20:55:34,605:: INFO:: ModelBase::Ckpt ready
+2019-01-05 20:59:25,419:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 20:59:25,793:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 20:59:26,463:: INFO:: ModelBase::Ckpt ready
+2019-01-05 21:03:48,963:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 21:03:49,237:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 21:03:49,913:: INFO:: ModelBase::Ckpt ready
+2019-01-05 21:12:38,573:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 21:12:38,851:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 21:12:39,479:: INFO:: ModelBase::Ckpt ready
+2019-01-05 21:15:01,261:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 21:15:01,626:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 21:15:02,257:: INFO:: ModelBase::Ckpt ready
+2019-01-05 21:15:18,551:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 21:15:18,770:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 21:15:19,382:: INFO:: ModelBase::Ckpt ready
+2019-01-05 22:40:05,438:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 22:40:05,933:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 22:40:06,744:: INFO:: ModelBase::Ckpt ready
+2019-01-05 22:42:26,421:: WARNING:: Not Found: /favicon.ico
+2019-01-05 22:44:10,093:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 22:44:10,461:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 22:44:11,109:: INFO:: ModelBase::Ckpt ready
+2019-01-05 22:45:21,162:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 22:45:21,439:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 22:45:22,076:: INFO:: ModelBase::Ckpt ready
+2019-01-05 22:45:27,785:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 67, in index
+    plt.imshow(image[0])
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 3085, in imshow
+    ax = gca()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 962, in gca
+    return gcf().gca(**kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 592, in gcf
+    return figure()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 539, in figure
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 171, in new_figure_manager
+    return cls.new_figure_manager_given_figure(num, fig)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1058, in new_figure_manager_given_figure
+    icon_img = Tk.PhotoImage(file=icon_fname)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3539, in __init__
+    Image.__init__(self, 'photo', name, cnf, master, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3495, in __init__
+    self.tk.call(('image', 'create', imgtype, name,) + options)
+RuntimeError: main thread is not in main loop
+2019-01-05 22:46:19,307:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 22:46:19,596:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 22:46:20,256:: INFO:: ModelBase::Ckpt ready
+2019-01-05 22:48:18,791:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 22:48:19,183:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 22:48:19,967:: INFO:: ModelBase::Ckpt ready
+2019-01-05 22:54:57,961:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 22:54:58,333:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 22:54:59,038:: INFO:: ModelBase::Ckpt ready
+2019-01-05 22:58:25,661:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 22:58:26,013:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 22:58:26,703:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:10:08,283:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:10:08,586:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:10:09,376:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:10:22,943:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 95, in index
+    return Response(args, status=status.HTTP_201_CREATED)
+NameError: name 'Response' is not defined
+2019-01-05 23:11:29,929:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:11:30,253:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:11:30,912:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:11:46,698:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 95, in index
+    return HttpResponse(args, status=status.HTTP_201_CREATED)
+NameError: name 'status' is not defined
+2019-01-05 23:12:39,457:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:12:39,759:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:12:40,463:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:13:35,091:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:13:35,431:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:13:36,067:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:13:50,900:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 95, in index
+    return HttpResponse(args.flag)
+AttributeError: 'dict' object has no attribute 'flag'
+2019-01-05 23:15:28,228:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:15:28,590:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:15:29,227:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:19:49,923:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:19:50,259:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:19:50,910:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:23:05,812:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:23:06,100:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:23:06,754:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:28:46,670:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:28:46,996:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:28:47,714:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:30:07,687:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:30:07,993:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:30:08,640:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:32:08,734:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:32:09,063:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:32:09,687:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:32:25,107:: WARNING:: Not Found: /favicon.ico
+2019-01-05 23:50:34,144:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:50:34,495:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:50:35,221:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:50:35,703:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 58, in index
+    req = urllib.request.urlopen(path)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 526, in open
+    response = self._open(req, data)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 549, in _open
+    'unknown_open', req)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 1388, in unknown_open
+    raise URLError('unknown url type: %s' % type)
+urllib.error.URLError: <urlopen error unknown url type: "https>
+2019-01-05 23:51:08,427:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:51:08,818:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:51:09,499:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:51:11,547:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 58, in index
+    req = urllib.request.urlopen(path)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 532, in open
+    response = meth(req, response)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 570, in error
+    return self._call_chain(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+2019-01-05 23:51:32,312:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:51:32,667:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:51:33,380:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:51:33,992:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 58, in index
+    req = urllib.request.urlopen(path)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 526, in open
+    response = self._open(req, data)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 549, in _open
+    'unknown_open', req)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 1388, in unknown_open
+    raise URLError('unknown url type: %s' % type)
+urllib.error.URLError: <urlopen error unknown url type: "https>
+2019-01-05 23:53:51,003:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:53:51,364:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:53:52,031:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:53:52,515:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 59, in index
+    req = urllib.request.urlopen(pnum_get)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 526, in open
+    response = self._open(req, data)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 549, in _open
+    'unknown_open', req)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 1388, in unknown_open
+    raise URLError('unknown url type: %s' % type)
+urllib.error.URLError: <urlopen error unknown url type: "https>
+2019-01-05 23:58:43,149:: INFO:: ModelBase::Loading ckpt ...
+2019-01-05 23:58:43,499:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-05 23:58:44,171:: INFO:: ModelBase::Ckpt ready
+2019-01-05 23:58:46,562:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 59, in index
+    req = urllib.request.urlopen(pnum_get)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 532, in open
+    response = meth(req, response)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 570, in error
+    return self._call_chain(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+2019-01-06 00:06:04,374:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 00:06:04,681:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 00:06:05,334:: INFO:: ModelBase::Ckpt ready
+2019-01-06 00:06:12,015:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 59, in index
+    req = urllib.request.urlopen(pnum_get)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 532, in open
+    response = meth(req, response)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 570, in error
+    return self._call_chain(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+2019-01-06 00:09:48,837:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 00:09:49,093:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 00:09:49,757:: INFO:: ModelBase::Ckpt ready
+2019-01-06 00:11:18,577:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 00:11:18,865:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 00:11:19,500:: INFO:: ModelBase::Ckpt ready
+2019-01-06 00:18:14,355:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 00:18:14,686:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 00:18:15,377:: INFO:: ModelBase::Ckpt ready
+2019-01-06 00:18:15,881:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 59, in index
+    req = urllib.request.urlopen(pnum_get)#"https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722?alt=media&token=5a36fb08-84e0-4867-b25a-68fffe75f30d")
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 517, in open
+    req.timeout = timeout
+AttributeError: 'NoneType' object has no attribute 'timeout'
+2019-01-06 00:19:48,306:: WARNING:: Not Found: /account/pnum=https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42/1546077224722
+2019-01-06 00:21:37,779:: WARNING:: Not Found: /account/pnum=https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42/1546077224722
+2019-01-06 00:23:06,085:: WARNING:: Not Found: /account/pnum=https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42/1546077224722
+2019-01-06 00:25:04,220:: WARNING:: Not Found: /account/pnum=https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42/1546077224722
+2019-01-06 00:25:41,782:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 00:25:42,309:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 00:25:43,351:: INFO:: ModelBase::Ckpt ready
+2019-01-06 00:25:45,220:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 1318, in do_open
+    encode_chunked=req.has_header('Transfer-encoding'))
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 1239, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 1285, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 1234, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 964, in send
+    self.connect()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 1392, in connect
+    super().connect()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 936, in connect
+    (self.host,self.port), self.timeout, self.source_address)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\socket.py", line 704, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 62, in index
+    req = urllib.request.urlopen(pnum_get)#"https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722?alt=media&token=5a36fb08-84e0-4867-b25a-68fffe75f30d")
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 526, in open
+    response = self._open(req, data)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 544, in _open
+    '_open', req)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 1361, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 1320, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2019-01-06 00:27:52,828:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 00:27:53,446:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 00:27:54,500:: INFO:: ModelBase::Ckpt ready
+2019-01-06 00:27:55,636:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 1318, in do_open
+    encode_chunked=req.has_header('Transfer-encoding'))
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 1239, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 1285, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 1234, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 964, in send
+    self.connect()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 1392, in connect
+    super().connect()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 936, in connect
+    (self.host,self.port), self.timeout, self.source_address)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\socket.py", line 704, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 62, in index
+    req = urllib.request.urlopen(pnum_get)#"https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722?alt=media&token=5a36fb08-84e0-4867-b25a-68fffe75f30d")
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 526, in open
+    response = self._open(req, data)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 544, in _open
+    '_open', req)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 1361, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 1320, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2019-01-06 00:34:02,610:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 00:34:03,070:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 00:34:03,802:: INFO:: ModelBase::Ckpt ready
+2019-01-06 00:34:04,264:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 63, in index
+    req = urllib.request.urlopen(pnum_get)#"https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722?alt=media&token=5a36fb08-84e0-4867-b25a-68fffe75f30d")
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 511, in open
+    req = Request(fullurl, data)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 329, in __init__
+    self.full_url = url
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 355, in full_url
+    self._parse()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 384, in _parse
+    raise ValueError("unknown url type: %r" % self.full_url)
+ValueError: unknown url type: 'https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fcsmvscommunity.appspot.com%2Fo%2F0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722%3Falt%3Dmedia'
+2019-01-06 00:35:21,448:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 00:35:21,776:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 00:35:22,538:: INFO:: ModelBase::Ckpt ready
+2019-01-06 00:35:23,036:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 64, in index
+    req = urllib.request.urlopen(pnum_get)#"https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722?alt=media&token=5a36fb08-84e0-4867-b25a-68fffe75f30d")
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 511, in open
+    req = Request(fullurl, data)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 329, in __init__
+    self.full_url = url
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 355, in full_url
+    self._parse()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 384, in _parse
+    raise ValueError("unknown url type: %r" % self.full_url)
+ValueError: unknown url type: 'https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fcsmvscommunity.appspot.com%2Fo%2F0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722%3Falt%3Dmedia'
+2019-01-06 00:35:58,285:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 00:35:58,677:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 00:35:59,422:: INFO:: ModelBase::Ckpt ready
+2019-01-06 00:35:59,881:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 64, in index
+    req = urllib.request.urlopen(pnum_get)#"https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722?alt=media&token=5a36fb08-84e0-4867-b25a-68fffe75f30d")
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 511, in open
+    req = Request(fullurl, data)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 329, in __init__
+    self.full_url = url
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 355, in full_url
+    self._parse()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 384, in _parse
+    raise ValueError("unknown url type: %r" % self.full_url)
+ValueError: unknown url type: 'https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fcsmvscommunity.appspot.com%2Fo%2F0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722%3Falt%3Dmedia'
+2019-01-06 00:43:45,350:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 00:43:45,858:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 00:43:47,043:: INFO:: ModelBase::Ckpt ready
+2019-01-06 00:43:47,822:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 63, in index
+    req = urllib.request.urlopen(pnum_get)#"https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722?alt=media&token=5a36fb08-84e0-4867-b25a-68fffe75f30d")
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 511, in open
+    req = Request(fullurl, data)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 329, in __init__
+    self.full_url = url
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 355, in full_url
+    self._parse()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 384, in _parse
+    raise ValueError("unknown url type: %r" % self.full_url)
+ValueError: unknown url type: 'https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fcsmvscommunity.appspot.com%2Fo%2F0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722%3Falt%3Dmedia'
+2019-01-06 00:44:40,135:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 00:44:40,663:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 00:44:41,418:: INFO:: ModelBase::Ckpt ready
+2019-01-06 00:44:44,548:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 63, in index
+    req = urllib.request.urlopen(pnum_get+"&"+pnum_token)#"https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722?alt=media&token=5a36fb08-84e0-4867-b25a-68fffe75f30d")
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 532, in open
+    response = meth(req, response)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 570, in error
+    return self._call_chain(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+2019-01-06 00:47:24,851:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 00:47:25,293:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 00:47:26,254:: INFO:: ModelBase::Ckpt ready
+2019-01-06 00:47:28,676:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 65, in index
+    req = urllib.request.urlopen(imt)#"https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722?alt=media&token=5a36fb08-84e0-4867-b25a-68fffe75f30d")
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 532, in open
+    response = meth(req, response)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 570, in error
+    return self._call_chain(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+2019-01-06 00:48:41,129:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 00:48:41,544:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 00:48:42,489:: INFO:: ModelBase::Ckpt ready
+2019-01-06 00:52:10,281:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 00:52:10,685:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 00:52:11,489:: INFO:: ModelBase::Ckpt ready
+2019-01-06 00:52:12,177:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 66, in index
+    req = urllib.request.urlopen(imt)#"https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722?alt=media&token=5a36fb08-84e0-4867-b25a-68fffe75f30d")
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 511, in open
+    req = Request(fullurl, data)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 329, in __init__
+    self.full_url = url
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 355, in full_url
+    self._parse()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 384, in _parse
+    raise ValueError("unknown url type: %r" % self.full_url)
+ValueError: unknown url type: 'https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fcsmvscommunity.appspot.com%2Fo%2F0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722%3Falt%3Dmedia%265a36fb08-84e0-4867-b25a-68fffe75f30d'
+2019-01-06 00:59:59,625:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:00:00,036:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:00:00,815:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:00:19,877:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 66, in index
+    req = urllib.request.urlopen(imt)#"https://firebasestorage.googleapis.com/v0/b/csmvscommunity.appspot.com/o/0Siae2fwxwhTWPSJfSrlwp8s3Z42%2F1546077224722?alt=media&token=5a36fb08-84e0-4867-b25a-68fffe75f30d")
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 532, in open
+    response = meth(req, response)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 570, in error
+    return self._call_chain(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+2019-01-06 01:02:59,019:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:02:59,419:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:03:00,235:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:03:16,461:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 66, in index
+    req = urllib.request.urlopen(imt)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 532, in open
+    response = meth(req, response)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 570, in error
+    return self._call_chain(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+2019-01-06 01:06:36,928:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:06:37,260:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:06:37,993:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:06:40,763:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 66, in index
+    req = urllib.request.urlopen(imt)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 532, in open
+    response = meth(req, response)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 570, in error
+    return self._call_chain(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+2019-01-06 01:11:52,791:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:11:53,173:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:11:53,992:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:11:55,169:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 67, in index
+    req = urllib.request.urlopen(imt)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 524, in open
+    req = meth(req)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 1241, in do_request_
+    raise URLError('no host given')
+urllib.error.URLError: <urlopen error no host given>
+2019-01-06 01:13:22,953:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:13:23,468:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:13:24,228:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:13:26,652:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 66, in index
+    req = urllib.request.urlopen(imt)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 532, in open
+    response = meth(req, response)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 570, in error
+    return self._call_chain(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+2019-01-06 01:15:35,638:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:15:36,003:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:15:36,741:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:32:00,824:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:32:01,448:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:32:02,460:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:32:03,211:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 61, in index
+    imt = pnum_get+"&token="+pnum_token
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'str'
+2019-01-06 01:32:37,497:: WARNING:: Not Found: /account/https://firebasestorage.googleapis.com/v0/b/ezcommuter.appspot.com/o/oKsHkjoYSVaHsyR7k1mrEmPrnpf2/1546718168886
+2019-01-06 01:33:17,893:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:33:18,467:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:33:19,340:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:33:22,464:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 67, in index
+    req = urllib.request.urlopen(imt)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 532, in open
+    response = meth(req, response)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 570, in error
+    return self._call_chain(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+2019-01-06 01:36:03,619:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:36:04,048:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:36:04,876:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:44:28,673:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:44:29,081:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:44:29,828:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:44:31,206:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:44:31,878:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:44:32,621:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:44:37,031:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 78, in index
+    plt.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 254, in show
+    return _show(*args, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 218, in show
+    cls.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1078, in mainloop
+    Tk.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 557, in mainloop
+    _default_root.tk.mainloop(n)
+RuntimeError: Calling Tcl from different appartment
+2019-01-06 01:47:39,220:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:47:47,021:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:48:31,895:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:48:32,268:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:48:33,007:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:48:35,608:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:48:36,007:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:48:36,769:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:48:41,118:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 78, in index
+    plt.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 254, in show
+    return _show(*args, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 218, in show
+    cls.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1078, in mainloop
+    Tk.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 557, in mainloop
+    _default_root.tk.mainloop(n)
+RuntimeError: Calling Tcl from different appartment
+2019-01-06 01:51:28,359:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:51:28,732:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:51:29,499:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:51:30,933:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:51:31,452:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:51:32,274:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:51:37,612:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 78, in index
+    plt.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 254, in show
+    return _show(*args, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 218, in show
+    cls.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1078, in mainloop
+    Tk.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 557, in mainloop
+    _default_root.tk.mainloop(n)
+RuntimeError: Calling Tcl from different appartment
+2019-01-06 01:53:04,948:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:54:06,191:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:54:06,559:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:54:07,371:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:54:09,817:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:54:11,274:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:54:12,021:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:54:14,785:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 78, in index
+    plt.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 254, in show
+    return _show(*args, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 218, in show
+    cls.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1078, in mainloop
+    Tk.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 557, in mainloop
+    _default_root.tk.mainloop(n)
+RuntimeError: Calling Tcl from different appartment
+2019-01-06 01:56:16,605:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:56:17,164:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:56:18,110:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:56:57,898:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 01:57:07,222:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 01:57:11,128:: INFO:: ModelBase::Ckpt ready
+2019-01-06 01:57:17,750:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 78, in index
+    plt.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 254, in show
+    return _show(*args, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 202, in show
+    manager.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 555, in show
+    self.canvas._tkcanvas.bind("<Destroy>", destroy)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 1245, in bind
+    return self._bind(('bind', self._w), sequence, func, add)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 1195, in _bind
+    needcleanup)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 1366, in _register
+    self.tk.createcommand(name, f)
+RuntimeError: main thread is not in main loop
+2019-01-06 02:07:19,540:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 02:07:19,861:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 02:07:20,587:: INFO:: ModelBase::Ckpt ready
+2019-01-06 02:07:22,122:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 02:07:22,459:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 02:07:23,206:: INFO:: ModelBase::Ckpt ready
+2019-01-06 02:07:26,129:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 78, in index
+    plt.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 254, in show
+    return _show(*args, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 218, in show
+    cls.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1078, in mainloop
+    Tk.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 557, in mainloop
+    _default_root.tk.mainloop(n)
+RuntimeError: Calling Tcl from different appartment
+2019-01-06 02:10:00,369:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 02:10:00,952:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 02:10:01,755:: INFO:: ModelBase::Ckpt ready
+2019-01-06 02:10:03,271:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 02:10:04,015:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 02:10:05,314:: INFO:: ModelBase::Ckpt ready
+2019-01-06 02:10:09,468:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 78, in index
+    plt.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 254, in show
+    return _show(*args, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 218, in show
+    cls.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1078, in mainloop
+    Tk.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 557, in mainloop
+    _default_root.tk.mainloop(n)
+RuntimeError: Calling Tcl from different appartment
+2019-01-06 02:18:03,745:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 02:18:04,221:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 02:18:05,285:: INFO:: ModelBase::Ckpt ready
+2019-01-06 02:18:20,419:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 156, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 154, in _get_response
+    response = response.render()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\response.py", line 57, in rendered_content
+    assert renderer, ".accepted_renderer not set on Response"
+AssertionError: .accepted_renderer not set on Response
+2019-01-06 02:20:27,113:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 02:20:27,432:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 02:20:28,172:: INFO:: ModelBase::Ckpt ready
+2019-01-06 02:20:29,677:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 02:20:29,978:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 02:20:31,518:: INFO:: ModelBase::Ckpt ready
+2019-01-06 02:20:35,381:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 78, in index
+    plt.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 254, in show
+    return _show(*args, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 218, in show
+    cls.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1078, in mainloop
+    Tk.mainloop()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 557, in mainloop
+    _default_root.tk.mainloop(n)
+RuntimeError: Calling Tcl from different appartment
+2019-01-06 02:26:15,182:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 02:26:15,575:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 02:26:16,362:: INFO:: ModelBase::Ckpt ready
+2019-01-06 02:26:18,713:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 02:26:19,901:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 02:26:20,679:: INFO:: ModelBase::Ckpt ready
+2019-01-06 02:26:27,918:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 85, in index
+    fig, axs = plt.subplots(36, 2, figsize=(10, 150))
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 1176, in subplots
+    fig = figure(**fig_kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 539, in figure
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 171, in new_figure_manager
+    return cls.new_figure_manager_given_figure(num, fig)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1058, in new_figure_manager_given_figure
+    icon_img = Tk.PhotoImage(file=icon_fname)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3539, in __init__
+    Image.__init__(self, 'photo', name, cnf, master, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3495, in __init__
+    self.tk.call(('image', 'create', imgtype, name,) + options)
+RuntimeError: main thread is not in main loop
+2019-01-06 02:47:56,935:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 02:47:57,542:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 02:47:59,461:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 02:47:59,742:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 02:48:00,099:: INFO:: ModelBase::Ckpt ready
+2019-01-06 02:48:01,099:: INFO:: ModelBase::Ckpt ready
+2019-01-06 02:48:07,482:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 77, in index
+    plt.imshow(image[0])
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 3085, in imshow
+    ax = gca()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 962, in gca
+    return gcf().gca(**kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 592, in gcf
+    return figure()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 539, in figure
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 171, in new_figure_manager
+    return cls.new_figure_manager_given_figure(num, fig)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1058, in new_figure_manager_given_figure
+    icon_img = Tk.PhotoImage(file=icon_fname)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3539, in __init__
+    Image.__init__(self, 'photo', name, cnf, master, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3495, in __init__
+    self.tk.call(('image', 'create', imgtype, name,) + options)
+RuntimeError: main thread is not in main loop
+2019-01-06 03:08:11,256:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 03:08:11,584:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 03:08:12,273:: INFO:: ModelBase::Ckpt ready
+2019-01-06 03:08:20,005:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 106, in index
+    db.child("accept").set(0)
+NameError: name 'db' is not defined
+2019-01-06 03:11:07,273:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 03:11:07,552:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 03:11:08,236:: INFO:: ModelBase::Ckpt ready
+2019-01-06 03:11:14,788:: INFO:: Refreshing access_token
+2019-01-06 03:11:15,274:: INFO:: Starting new HTTPS connection (1): ezcommuter.firebaseio.com
+2019-01-06 03:11:24,792:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 116, in index
+    return HttpResponse(flag)
+NameError: name 'flag' is not defined
+2019-01-06 03:21:13,362:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 03:21:13,688:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 03:21:14,384:: INFO:: ModelBase::Ckpt ready
+2019-01-06 03:21:16,151:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 03:21:16,909:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 03:21:17,556:: INFO:: ModelBase::Ckpt ready
+2019-01-06 03:21:27,934:: INFO:: Refreshing access_token
+2019-01-06 03:21:28,466:: INFO:: Starting new HTTPS connection (1): ezcommuter.firebaseio.com
+2019-01-06 03:21:28,967:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 94, in index
+    fig, axs = plt.subplots(36, 2, figsize=(10, 150))
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 1176, in subplots
+    fig = figure(**fig_kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 539, in figure
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 171, in new_figure_manager
+    return cls.new_figure_manager_given_figure(num, fig)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1058, in new_figure_manager_given_figure
+    icon_img = Tk.PhotoImage(file=icon_fname)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3539, in __init__
+    Image.__init__(self, 'photo', name, cnf, master, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3495, in __init__
+    self.tk.call(('image', 'create', imgtype, name,) + options)
+RuntimeError: main thread is not in main loop
+2019-01-06 03:24:20,780:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 03:24:21,060:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 03:24:21,737:: INFO:: ModelBase::Ckpt ready
+2019-01-06 03:24:23,123:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 03:24:23,963:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 03:24:24,603:: INFO:: ModelBase::Ckpt ready
+2019-01-06 03:24:29,293:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 94, in index
+    fig, axs = plt.subplots(36, 2, figsize=(10, 150))
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 1176, in subplots
+    fig = figure(**fig_kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 539, in figure
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 171, in new_figure_manager
+    return cls.new_figure_manager_given_figure(num, fig)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1058, in new_figure_manager_given_figure
+    icon_img = Tk.PhotoImage(file=icon_fname)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3539, in __init__
+    Image.__init__(self, 'photo', name, cnf, master, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3495, in __init__
+    self.tk.call(('image', 'create', imgtype, name,) + options)
+RuntimeError: main thread is not in main loop
+2019-01-06 03:24:29,766:: INFO:: Refreshing access_token
+2019-01-06 03:24:30,242:: INFO:: Starting new HTTPS connection (1): ezcommuter.firebaseio.com
+2019-01-06 08:45:35,914:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 08:45:38,444:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 08:45:40,053:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 08:45:40,053:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 08:45:43,568:: INFO:: ModelBase::Ckpt ready
+2019-01-06 08:45:43,568:: INFO:: ModelBase::Ckpt ready
+2019-01-06 08:45:53,285:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 86, in index
+    plt.imshow(image[0])
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 3085, in imshow
+    ax = gca()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 962, in gca
+    return gcf().gca(**kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 592, in gcf
+    return figure()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 539, in figure
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 171, in new_figure_manager
+    return cls.new_figure_manager_given_figure(num, fig)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1058, in new_figure_manager_given_figure
+    icon_img = Tk.PhotoImage(file=icon_fname)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3539, in __init__
+    Image.__init__(self, 'photo', name, cnf, master, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3495, in __init__
+    self.tk.call(('image', 'create', imgtype, name,) + options)
+RuntimeError: main thread is not in main loop
+2019-01-06 08:45:55,784:: INFO:: Refreshing access_token
+2019-01-06 08:45:56,800:: INFO:: Starting new HTTPS connection (1): ezcommuter.firebaseio.com
+2019-01-06 08:46:25,916:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 08:46:26,219:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 08:46:26,865:: INFO:: ModelBase::Ckpt ready
+2019-01-06 08:56:32,459:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 08:56:32,735:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 08:56:33,379:: INFO:: ModelBase::Ckpt ready
+2019-01-06 08:56:35,063:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 08:56:36,126:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 08:56:36,750:: INFO:: ModelBase::Ckpt ready
+2019-01-06 08:56:41,503:: INFO:: Refreshing access_token
+2019-01-06 08:56:41,610:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 94, in index
+    fig, axs = plt.subplots(36, 2, figsize=(10, 150))
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 1176, in subplots
+    fig = figure(**fig_kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 539, in figure
+    **kwargs)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 171, in new_figure_manager
+    return cls.new_figure_manager_given_figure(num, fig)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 1058, in new_figure_manager_given_figure
+    icon_img = Tk.PhotoImage(file=icon_fname)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3539, in __init__
+    Image.__init__(self, 'photo', name, cnf, master, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 3495, in __init__
+    self.tk.call(('image', 'create', imgtype, name,) + options)
+RuntimeError: main thread is not in main loop
+2019-01-06 08:56:42,063:: INFO:: Starting new HTTPS connection (1): ezcommuter.firebaseio.com
+2019-01-06 08:57:30,925:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 08:57:31,173:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 08:57:31,878:: INFO:: ModelBase::Ckpt ready
+2019-01-06 08:57:33,988:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 08:57:34,410:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 08:57:35,078:: INFO:: ModelBase::Ckpt ready
+2019-01-06 08:57:41,863:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 115, in index
+    plt.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 254, in show
+    return _show(*args, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 202, in show
+    manager.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 560, in show
+    self.canvas.draw_idle()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 327, in draw_idle
+    self._idle_callback = self._tkcanvas.after_idle(idle_draw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 760, in after_idle
+    return self.after('idle', func, *args)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 752, in after
+    name = self._register(callit)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 1366, in _register
+    self.tk.createcommand(name, f)
+RuntimeError: main thread is not in main loop
+2019-01-06 08:57:43,719:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 115, in index
+    plt.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 254, in show
+    return _show(*args, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 202, in show
+    manager.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 562, in show
+    self.canvas.manager.window.attributes('-topmost', 1)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 1782, in wm_attributes
+    return self.tk.call(args)
+RuntimeError: main thread is not in main loop
+2019-01-06 08:58:12,457:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 08:58:12,957:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 08:58:13,626:: INFO:: ModelBase::Ckpt ready
+2019-01-06 08:58:15,049:: INFO:: ModelBase::Loading ckpt ...
+2019-01-06 08:58:15,308:: INFO:: Restoring parameters from C:/Users/Poojan/Desktop/Projects/ETL Django/potholerecog/account/checkpoints/restoreModel
+2019-01-06 08:58:15,925:: INFO:: ModelBase::Ckpt ready
+2019-01-06 08:58:23,657:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 115, in index
+    plt.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 254, in show
+    return _show(*args, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 202, in show
+    manager.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 562, in show
+    self.canvas.manager.window.attributes('-topmost', 1)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 1782, in wm_attributes
+    return self.tk.call(args)
+RuntimeError: main thread is not in main loop
+2019-01-06 08:58:25,347:: ERROR:: Internal Server Error: /account/
+Traceback (most recent call last):
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\django-2.1-py3.6.egg\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Poojan\Desktop\Projects\ETL Django\potholerecog\account\views.py", line 115, in index
+    plt.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\pyplot.py", line 254, in show
+    return _show(*args, **kw)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backend_bases.py", line 202, in show
+    manager.show()
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\site-packages\matplotlib\backends\backend_tkagg.py", line 562, in show
+    self.canvas.manager.window.attributes('-topmost', 1)
+  File "C:\Users\Poojan\AppData\Local\Programs\Python\Python36\lib\tkinter\__init__.py", line 1782, in wm_attributes
+    return self.tk.call(args)
+RuntimeError: main thread is not in main loop
