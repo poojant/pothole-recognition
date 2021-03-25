@@ -44,7 +44,7 @@ python-dateutil==2.6.1
 python-utils==2.3.0
 pytz==2018.3
 PyWavelets==1.0.1
-PyYAML==3.13
+PyYAML==5.4
 Quandl==3.3.0
 requests==2.18.4
 scikit-image==0.14.1
