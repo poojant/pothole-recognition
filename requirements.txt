@@ -31,7 +31,7 @@ ndg-httpsclient==0.4.4
 networkx==2.2
 numdifftools==0.9.20
 numpy==1.14.0
-opencv-python==3.4.5.20
+opencv-python==4.2.0.32
 pandas==0.22.0
 Pillow==5.4.0
 protobuf==3.6.1
