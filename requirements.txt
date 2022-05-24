@@ -54,7 +54,7 @@ simplesbml==1.2.2
 six==1.11.0
 sklearn==0.0
 tensorboard==1.12.2
-tensorflow==1.12.0
+tensorflow==2.6.4
 termcolor==1.1.0
 tesbml==5.15.0.1
 toolz==0.9.0
